@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "jlaAoOb",
+      "title": "Post five",
+      "body": "This is the body five",
+      "publishedAt": "2020-11-18"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body four",
+      "publishedAt": "2020-11-18",
+      "id": "WpzT4RA"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Johndow",
+      "email": "JOhn@example.com"
+    }
+  ]
+}
